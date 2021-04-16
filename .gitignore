@@ -1,0 +1,8 @@
+node_modules/
+test.rest
+.vscode
+db/temp.db
+views/pages/home copy.ejs
+views/pages/tempalate.ejs
+views/pages/tweets.ejs
+JWT.js
