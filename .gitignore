@@ -6,3 +6,4 @@ views/pages/home copy.ejs
 views/pages/tempalate.ejs
 views/pages/tweets.ejs
 JWT.js
+models/models.js
